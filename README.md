@@ -4,5 +4,5 @@ c#  opcncv  Vision Application
 
 
 
-!\[视觉识别软件](v2.png)
+![视觉识别软件](v2.png)
 
