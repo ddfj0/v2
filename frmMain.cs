@@ -32,7 +32,7 @@ namespace v2
 {
     public partial class frmMain : Form
     {
-        public static String version = "v20251220";
+        public static String version = "v20251221";
 
         private readonly MaterialSkinManager materialSkinManager;
 
